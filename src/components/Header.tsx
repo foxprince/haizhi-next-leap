@@ -9,7 +9,7 @@ const Header = () => {
             <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-sm">H</span>
             </div>
-            <span className="text-xl font-bold font-inter">Haizhi IT</span>
+            <span className="text-xl font-bold font-inter">Haizhijing</span>
           </div>
           
           <div className="hidden md:flex items-center space-x-8">
