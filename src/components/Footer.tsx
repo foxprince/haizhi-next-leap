@@ -10,14 +10,14 @@ const Footer = () => {
               <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-sm">H</span>
               </div>
-              <span className="text-xl font-bold font-inter">Haizhi IT Solutions</span>
+              <span className="text-xl font-bold font-inter">Haizhijing IT Solutions</span>
             </div>
             <p className="text-muted-foreground mb-4 max-w-md">
               Professional IT services, operations management, and development outsourcing 
               for modern businesses worldwide.
             </p>
             <p className="text-sm text-muted-foreground">
-              © 2024 Haizhi IT Solutions. All rights reserved.
+              © 2024 Haizhijing IT Solutions. All rights reserved.
             </p>
           </div>
           

@@ -34,7 +34,7 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
             <h2 className="text-4xl md:text-5xl font-bold font-inter mb-6">
-              About Haizhi IT
+              About Haizhijing
             </h2>
             <p className="text-lg text-muted-foreground mb-8">
               We are a leading IT services company specializing in modern technology solutions. 
